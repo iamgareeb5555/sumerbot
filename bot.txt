@@ -1,0 +1,4 @@
+{
+	"ip":"Notchsmp2.aternos.me",
+	"port": "43145",
+	"name": "sumerbot"
